@@ -1,2 +1,2 @@
 # AnimalHierarchy
-Independent Project, incorporates inheritance, an interface, and abstract class
+Independent Homework, incorporates inheritance, an interface, and abstract class
